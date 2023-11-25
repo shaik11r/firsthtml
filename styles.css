@@ -1,0 +1,20 @@
+.login_from {
+  display: grid;
+  width: 100vw;
+  height: 100vh;
+  place-items: center;
+}
+
+.first {
+  width: 10rem;
+  background-color: blueviolet;
+  border: 0.5rem solid rgb(48, 143, 221);
+  color: white;
+}
+.two {
+  width: 10rem;
+  background-color: aqua;
+  border: 0.5rem solid rgb(36, 13, 214);
+
+  color: black;
+}
